@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 sqlalchemy = "*"
+mywork = "*"
+alembic = "*"
 
 [dev-packages]
 
